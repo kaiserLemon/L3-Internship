@@ -1,5 +1,5 @@
 
-#Brief Overview
+## Brief Overview
 
 This internship was realized in team comBi of the LS2N (Laboratoire des sciences du numérique de Nantes) at Nantes University in L3.
 
